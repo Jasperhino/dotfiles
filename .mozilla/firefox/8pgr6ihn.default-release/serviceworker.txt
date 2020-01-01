@@ -39,3 +39,13 @@ true
 1577896912080003
 1577896908476778
 #
+
+https://www.techradar.com/
+https://www.techradar.com/OneSignalSDKWorker.js?appId=bf7c1147-c214-44f3-b909-620c0ec86b97
+false
+{b715fe53-6879-4c98-ae65-534b7bc3abb6}
+0
+1577910725928088
+1577910725940834
+1577910725784353
+#

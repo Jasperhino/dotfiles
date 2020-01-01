@@ -3,6 +3,7 @@
     "openedPathsList": {
         "workspaces3": [],
         "files2": [
+            "file:///home/jasper/.gitignore_global",
             "file:///home/jasper/.themes/jzy-dark/gnome-shell/gnome-shell.css",
             "file:///home/jasper/.themes/Adapta-Nokto/cinnamon/cinnamon.css",
             "file:///usr/share/themes/Pop-Jzy/gnome-shell/gnome-shell.css",
@@ -48,6 +49,17 @@
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/jasper/.gitignore_global",
+                                        "path": "/home/jasper/.gitignore_global",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/.gitignore_global"
                                 },
                                 {
                                     "id": "openRecentFile",
@@ -600,7 +612,8 @@
                 "items": [
                     {
                         "id": "workbench.action.navigateBack",
-                        "label": "&&Back"
+                        "label": "&&Back",
+                        "enabled": false
                     },
                     {
                         "id": "workbench.action.navigateForward",
