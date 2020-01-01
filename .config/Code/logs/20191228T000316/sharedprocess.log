@@ -1,0 +1,8 @@
+[2019-12-28 00:03:20.444] [sharedprocess] [info] main {"machineId":"a7ca673a88c4d2c8db91d7d36c4f95b84d18c9d2d080dabeb38b06c198184532","windowId":2}
+[2019-12-28 00:04:00.439] [sharedprocess] [info] Starting to clean up unused language packs.
+[2019-12-28 00:09:22.368] [sharedprocess] [info] Installing extension: lihui.vs-color-picker
+[2019-12-28 00:09:22.881] [sharedprocess] [info] Downloaded extension: lihui.vs-color-picker /tmp/0884f908-714e-4cc7-bbe0-55ac50a21039
+[2019-12-28 00:09:22.976] [sharedprocess] [info] Extracted extension to /home/jasper/.vscode/extensions/.lihui.vs-color-picker-1.0.0: lihui.vs-color-picker
+[2019-12-28 00:09:22.977] [sharedprocess] [info] Renamed to /home/jasper/.vscode/extensions/lihui.vs-color-picker-1.0.0
+[2019-12-28 00:09:22.978] [sharedprocess] [info] Installation completed. lihui.vs-color-picker
+[2019-12-28 00:09:22.989] [sharedprocess] [info] Extensions installed successfully: lihui.vs-color-picker

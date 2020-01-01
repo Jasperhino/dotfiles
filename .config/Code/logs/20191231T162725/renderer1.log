@@ -1,0 +1,38 @@
+[2019-12-31 16:32:52.900] [renderer1] [error] Illegal value for `line`: Error: Illegal value for `line`
+	at h._lineAt (/snap/code/23/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:391:466)
+	at Object.lineAt (/snap/code/23/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:390:368)
+	at r._lineLength (/snap/code/23/usr/share/code/resources/app/extensions/emmet/dist/extension.js:1:12238)
+	at r.backUp (/snap/code/23/usr/share/code/resources/app/extensions/emmet/dist/extension.js:1:11841)
+	at g (/snap/code/23/usr/share/code/resources/app/extensions/emmet/dist/extension.js:1:5325)
+	at Object.t.parsePartialStylesheet (/snap/code/23/usr/share/code/resources/app/extensions/emmet/dist/extension.js:1:5980)
+	at t.DefaultCompletionItemProvider.provideCompletionItemsInternal (/snap/code/23/usr/share/code/resources/app/extensions/emmet/dist/extension.js:1:53803)
+	at t.DefaultCompletionItemProvider.provideCompletionItems (/snap/code/23/usr/share/code/resources/app/extensions/emmet/dist/extension.js:1:51594)
+	at /snap/code/23/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:583:195
+	at /snap/code/23/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:52:287
+	at new Promise (<anonymous>)
+	at Object.t.asPromise (/snap/code/23/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:52:259)
+	at L.provideCompletionItems (/snap/code/23/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:583:166)
+	at /snap/code/23/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:599:35
+	at B._withAdapter (/snap/code/23/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:591:697)
+	at B.$provideCompletionItems (/snap/code/23/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:599:13)
+	at p._doInvokeHandler (/snap/code/23/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:663:275)
+	at p._invokeHandler (/snap/code/23/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:662:971)
+	at p._receiveRequest (/snap/code/23/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:661:588)
+	at p._receiveOneMessage (/snap/code/23/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:660:468)
+	at /snap/code/23/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:658:691
+	at l.fire (/snap/code/23/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:893)
+	at _.fire (/snap/code/23/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:189:274)
+	at /snap/code/23/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:820:285
+	at l.fire (/snap/code/23/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:893)
+	at _.fire (/snap/code/23/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:189:274)
+	at t.PersistentProtocol._receiveMessage (/snap/code/23/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:193:629)
+	at /snap/code/23/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:190:824
+	at l.fire (/snap/code/23/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:893)
+	at p.acceptChunk (/snap/code/23/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:186:737)
+	at /snap/code/23/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:186:89
+	at Socket.t (/snap/code/23/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:195:68)
+	at Socket.emit (events.js:200:13)
+	at addChunk (_stream_readable.js:294:12)
+	at readableAddChunk (_stream_readable.js:275:11)
+	at Socket.Readable.push (_stream_readable.js:210:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)

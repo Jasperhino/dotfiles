@@ -1,0 +1,29 @@
+[Data Source]
+DisplayName=blum.jasper@googlemail.com
+Enabled=true
+Parent=854d43834c3c6958af73ffc92d404fe1ce0a3243
+
+[Mail Submission]
+SentFolder=folder://local/Sent
+TransportUid=c4244bac75296b80d29ff02de3044e4b7379ade7
+RepliesToOriginFolder=false
+UseSentFolder=true
+
+[Mail Composition]
+Bcc=
+Cc=
+DraftsFolder=folder://local/Drafts
+ReplyStyle=default
+SignImip=true
+TemplatesFolder=
+StartBottom=inconsistent
+TopSignature=inconsistent
+Language=
+
+[Mail Identity]
+Address=blum.jasper@googlemail.com
+Aliases=
+Name=
+Organization=
+ReplyTo=
+SignatureUid=none
