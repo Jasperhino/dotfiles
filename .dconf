@@ -73,7 +73,10 @@ monospace-font-name='Fira Mono 11'
 show-battery-percentage=true
 
 [org/gnome/desktop/notifications]
-application-children=['io-elementary-appcenter', 'firefox', 'gnome-control-center', 'org-gnome-gedit', 'gnome-datetime-panel', 'org-gnome-nautilus']
+application-children=['io-elementary-appcenter', 'firefox', 'gnome-control-center', 'org-gnome-gedit', 'gnome-datetime-panel', 'org-gnome-nautilus', 'eog', 'org-gnome-fileroller']
+
+[org/gnome/desktop/notifications/application/eog]
+application-id='eog.desktop'
 
 [org/gnome/desktop/notifications/application/firefox]
 application-id='firefox.desktop'
@@ -86,6 +89,9 @@ application-id='gnome-datetime-panel.desktop'
 
 [org/gnome/desktop/notifications/application/io-elementary-appcenter]
 application-id='io.elementary.appcenter.desktop'
+
+[org/gnome/desktop/notifications/application/org-gnome-fileroller]
+application-id='org.gnome.FileRoller.desktop'
 
 [org/gnome/desktop/notifications/application/org-gnome-gedit]
 application-id='org.gnome.gedit.desktop'
@@ -104,7 +110,7 @@ two-finger-scrolling-enabled=true
 report-technical-problems=true
 
 [org/gnome/desktop/screensaver]
-picture-uri='file:///home/jasper/Downloads/wallpaper.png'
+picture-uri='file:///home/jasper/Pictures/Wallpapers/lockscreen.jpg'
 
 [org/gnome/desktop/search-providers]
 sort-order=['org.gnome.Contacts.desktop', 'org.gnome.Documents.desktop', 'org.gnome.Nautilus.desktop']
@@ -126,6 +132,10 @@ unmaximize=['<Super>Down']
 
 [org/gnome/desktop/wm/preferences]
 titlebar-font='Roboto Medium 10'
+
+[org/gnome/eog/view]
+background-color='rgb(0,0,0)'
+use-background-color=true
 
 [org/gnome/evolution-data-server]
 migrated=true
@@ -152,7 +162,7 @@ active-plugins=['docinfo', 'modelines', 'time', 'filebrowser', 'spell']
 [org/gnome/gedit/plugins/filebrowser]
 root='file:///'
 tree-view=true
-virtual-root='file:///media/jasper/0E76A7065E633A15/Backup/PopOS-config'
+virtual-root='file:///home/jasper/.config/gtk-4.0'
 
 [org/gnome/gedit/preferences/editor]
 scheme='solarized-dark'
@@ -189,7 +199,7 @@ default-visible-columns=['name', 'size', 'date_modified', 'starred']
 use-tree-view=false
 
 [org/gnome/nautilus/preferences]
-default-folder-viewer='list-view'
+default-folder-viewer='icon-view'
 search-filter-time-type='last_modified'
 search-view='list-view'
 
@@ -217,6 +227,11 @@ disable-user-extensions=false
 disabled-extensions=['all-windows@ezix.org']
 enabled-extensions=['alt-tab-raise-first-window@system76.com', 'always-show-workspaces@system76.com', 'batteryiconfix@kylecorry31.github.io', 'desktop-icons@csoriano', 'donotdisturb@kylecorry31.github.io', 'pop-shop-details@system76.com', 'pop-suspend-button@system76.com', 'system76-power@system76.com', 'user-theme@gnome-shell-extensions.gcampax.github.com', 'clipboard-indicator@tudmotu.com', 'Hide_Activities@shay.shayel.org', 'remove-dropdown-arrows@mpdeimos.com', 'dynamicTopBar@gnomeshell.feildel.fr', 'windowlist@o2net.cl', 'window-list-mod@vagonpop.gmail.com']
 
+[org/gnome/shell/extensions/clipboard-indicator]
+display-mode=0
+enable-keybindings=true
+move-item-first=false
+
 [org/gnome/shell/extensions/user-theme]
 name='jzy-dark'
 
@@ -231,10 +246,12 @@ enabled=true
 [org/gnome/terminal/legacy]
 mnemonics-enabled=false
 new-terminal-mode='tab'
+shortcuts-enabled=true
 theme-variant='system'
 
 [org/gnome/terminal/legacy/profiles:/:b1dcc9dd-5262-4d8d-a863-c897e6d979b9]
 background-color='rgb(38,50,56)'
+cursor-shape='ibeam'
 font='DejaVu Sans Mono 12'
 palette=['rgb(7,54,66)', 'rgb(220,50,47)', 'rgb(133,153,0)', 'rgb(181,137,0)', 'rgb(38,139,210)', 'rgb(211,54,130)', 'rgb(42,161,152)', 'rgb(238,232,213)', 'rgb(0,43,54)', 'rgb(203,75,22)', 'rgb(88,110,117)', 'rgb(101,123,131)', 'rgb(131,148,150)', 'rgb(108,113,196)', 'rgb(147,161,161)', 'rgb(253,246,227)']
 
@@ -254,5 +271,5 @@ sort-column='name'
 sort-directories-first=true
 sort-order='ascending'
 type-format='category'
-window-position=(39, 161)
+window-position=(39, 130)
 window-size=(1364, 822)

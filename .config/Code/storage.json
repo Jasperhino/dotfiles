@@ -1,8 +1,11 @@
 {
     "telemetry.machineId": "a7ca673a88c4d2c8db91d7d36c4f95b84d18c9d2d080dabeb38b06c198184532",
     "openedPathsList": {
-        "workspaces3": [],
+        "workspaces3": [
+            "file:///media/jasper/0E76A7065E633A15/Backup/PopOS-config"
+        ],
         "files2": [
+            "file:///home/jasper/.gitconfig",
             "file:///home/jasper/.gitignore_global",
             "file:///home/jasper/.themes/jzy-dark/gnome-shell/gnome-shell.css",
             "file:///home/jasper/.themes/Adapta-Nokto/cinnamon/cinnamon.css",
@@ -49,6 +52,32 @@
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "fsPath": "/media/jasper/0E76A7065E633A15/Backup/PopOS-config",
+                                        "external": "file:///media/jasper/0E76A7065E633A15/Backup/PopOS-config",
+                                        "path": "/media/jasper/0E76A7065E633A15/Backup/PopOS-config",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "/media/jasper/0E76A7065E633A15/Backup/PopOS-config"
+                                },
+                                {
+                                    "id": "vscode.menubar.separator"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/jasper/.gitconfig",
+                                        "path": "/home/jasper/.gitconfig",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/.gitconfig"
                                 },
                                 {
                                     "id": "openRecentFile",
@@ -229,8 +258,7 @@
                     },
                     {
                         "id": "workbench.action.closeFolder",
-                        "label": "Close &&Folder",
-                        "enabled": false
+                        "label": "Close &&Folder"
                     },
                     {
                         "id": "workbench.action.closeWindow",
@@ -612,8 +640,7 @@
                 "items": [
                     {
                         "id": "workbench.action.navigateBack",
-                        "label": "&&Back",
-                        "enabled": false
+                        "label": "&&Back"
                     },
                     {
                         "id": "workbench.action.navigateForward",

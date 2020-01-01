@@ -247,3 +247,5 @@
         required = true
 [difftool "vscode"]
 	cmd = "code --wait --diff  "
+[credential]
+	helper = cache
