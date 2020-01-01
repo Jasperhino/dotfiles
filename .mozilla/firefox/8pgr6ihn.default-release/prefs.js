@@ -40,8 +40,8 @@ user_pref("browser.newtabpage.pinned", "[{\"url\":\"https://amazon.com\",\"label
 user_pref("browser.newtabpage.storageVersion", 1);
 user_pref("browser.pageActions.persistedActions", "{\"version\":1,\"ids\":[\"bookmark\",\"pinTab\",\"bookmarkSeparator\",\"copyURL\",\"emailLink\",\"addSearchEngine\",\"sendToDevice\",\"pocket\",\"screenshots_mozilla_org\"],\"idsInUrlbar\":[\"pocket\",\"bookmark\"]}");
 user_pref("browser.pagethumbnails.storage_version", 3);
-user_pref("browser.safebrowsing.provider.google4.lastupdatetime", "1577913172868");
-user_pref("browser.safebrowsing.provider.google4.nextupdatetime", "1577914963868");
+user_pref("browser.safebrowsing.provider.google4.lastupdatetime", "1577914965076");
+user_pref("browser.safebrowsing.provider.google4.nextupdatetime", "1577916772076");
 user_pref("browser.safebrowsing.provider.mozilla.lastupdatetime", "1577913161941");
 user_pref("browser.safebrowsing.provider.mozilla.nextupdatetime", "1577916761941");
 user_pref("browser.search.region", "DE");
