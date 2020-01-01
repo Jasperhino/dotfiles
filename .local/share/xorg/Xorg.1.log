@@ -804,3 +804,77 @@ See https://wayland.freedesktop.org/libinput/doc/1.14.1/touchpad-jumping-cursors
 [ 25575.749] (II) modeset(0): EDID vendor "CMN", prod id 5321
 [ 25575.749] (II) modeset(0): Printing DDC gathered Modelines:
 [ 25575.749] (II) modeset(0): Modeline "1920x1080"x0.0  152.84  1920 2000 2060 2250  1080 1086 1094 1132 -hsync -vsync (67.9 kHz eP)
+[ 28194.974] (II) modeset(0): EDID vendor "CMN", prod id 5321
+[ 28194.974] (II) modeset(0): Printing DDC gathered Modelines:
+[ 28194.974] (II) modeset(0): Modeline "1920x1080"x0.0  152.84  1920 2000 2060 2250  1080 1086 1094 1132 -hsync -vsync (67.9 kHz eP)
+[ 28526.412] (EE) event5  - SynPS/2 Synaptics TouchPad: kernel bug: Touch jump detected and discarded.
+See https://wayland.freedesktop.org/libinput/doc/1.14.1/touchpad-jumping-cursors.html for details
+[ 28667.923] (II) modeset(0): EDID vendor "CMN", prod id 5321
+[ 28667.923] (II) modeset(0): Printing DDC gathered Modelines:
+[ 28667.923] (II) modeset(0): Modeline "1920x1080"x0.0  152.84  1920 2000 2060 2250  1080 1086 1094 1132 -hsync -vsync (67.9 kHz eP)
+[ 28853.714] (II) modeset(0): EDID vendor "CMN", prod id 5321
+[ 28853.714] (II) modeset(0): Printing DDC gathered Modelines:
+[ 28853.714] (II) modeset(0): Modeline "1920x1080"x0.0  152.84  1920 2000 2060 2250  1080 1086 1094 1132 -hsync -vsync (67.9 kHz eP)
+[ 30247.852] (II) modeset(0): EDID vendor "CMN", prod id 5321
+[ 30247.852] (II) modeset(0): Printing DDC gathered Modelines:
+[ 30247.852] (II) modeset(0): Modeline "1920x1080"x0.0  152.84  1920 2000 2060 2250  1080 1086 1094 1132 -hsync -vsync (67.9 kHz eP)
+[ 31697.380] (EE) event5  - SynPS/2 Synaptics TouchPad: kernel bug: Touch jump detected and discarded.
+See https://wayland.freedesktop.org/libinput/doc/1.14.1/touchpad-jumping-cursors.html for details
+[ 32684.476] (II) modeset(0): EDID vendor "CMN", prod id 5321
+[ 32684.476] (II) modeset(0): Printing DDC gathered Modelines:
+[ 32684.476] (II) modeset(0): Modeline "1920x1080"x0.0  152.84  1920 2000 2060 2250  1080 1086 1094 1132 -hsync -vsync (67.9 kHz eP)
+[ 32876.907] (**) Option "fd" "62"
+[ 32876.911] (II) event2  - Power Button: device removed
+[ 32876.913] (**) Option "fd" "25"
+[ 32876.913] (II) event4  - Video Bus: device removed
+[ 32876.914] (**) Option "fd" "26"
+[ 32876.914] (II) event1  - Sleep Button: device removed
+[ 32876.921] (**) Option "fd" "28"
+[ 32876.921] (II) event3  - AT Translated Set 2 keyboard: device removed
+[ 32876.925] (**) Option "fd" "30"
+[ 32876.925] (II) event6  - TPPS/2 IBM TrackPoint: device removed
+[ 32876.930] (**) Option "fd" "27"
+[ 32876.930] (II) event8  - Integrated Camera: Integrated C: device removed
+[ 32876.931] (**) Option "fd" "29"
+[ 32876.931] (II) event5  - SynPS/2 Synaptics TouchPad: device removed
+[ 32876.933] (**) Option "fd" "31"
+[ 32876.933] (II) event7  - ThinkPad Extra Buttons: device removed
+[ 32876.934] (II) AIGLX: Suspending AIGLX clients for VT switch
+[ 32876.940] (II) systemd-logind: got pause for 226:0
+[ 32876.940] (II) systemd-logind: got pause for 13:67
+[ 32876.940] (II) systemd-logind: got pause for 13:65
+[ 32876.940] (II) systemd-logind: got pause for 13:70
+[ 32876.940] (II) systemd-logind: got pause for 13:66
+[ 32876.940] (II) systemd-logind: got pause for 13:71
+[ 32876.940] (II) systemd-logind: got pause for 13:69
+[ 32876.940] (II) systemd-logind: got pause for 13:72
+[ 32876.940] (II) systemd-logind: got pause for 13:68
+[ 33018.775] (II) systemd-logind: got resume for 226:0
+[ 33018.775] (II) AIGLX: Resuming AIGLX clients after VT switch
+[ 33018.853] (II) modeset(0): EDID vendor "CMN", prod id 5321
+[ 33018.853] (II) modeset(0): Printing DDC gathered Modelines:
+[ 33018.853] (II) modeset(0): Modeline "1920x1080"x0.0  152.84  1920 2000 2060 2250  1080 1086 1094 1132 -hsync -vsync (67.9 kHz eP)
+[ 33019.086] (II) systemd-logind: got resume for 13:67
+[ 33019.087] (II) event3  - AT Translated Set 2 keyboard: is tagged by udev as: Keyboard
+[ 33019.087] (II) event3  - AT Translated Set 2 keyboard: device is a keyboard
+[ 33019.089] (II) systemd-logind: got resume for 13:65
+[ 33019.090] (II) event1  - Sleep Button: is tagged by udev as: Keyboard
+[ 33019.090] (II) event1  - Sleep Button: device is a keyboard
+[ 33019.092] (II) systemd-logind: got resume for 13:70
+[ 33019.093] (II) event6  - TPPS/2 IBM TrackPoint: is tagged by udev as: Mouse Pointingstick
+[ 33019.095] (II) event6  - TPPS/2 IBM TrackPoint: device is a pointer
+[ 33019.102] (II) systemd-logind: got resume for 13:66
+[ 33019.103] (II) event2  - Power Button: is tagged by udev as: Keyboard
+[ 33019.103] (II) event2  - Power Button: device is a keyboard
+[ 33019.105] (II) systemd-logind: got resume for 13:71
+[ 33019.107] (II) event7  - ThinkPad Extra Buttons: is tagged by udev as: Keyboard Switch
+[ 33019.107] (II) event7  - ThinkPad Extra Buttons: device is a keyboard
+[ 33019.108] (II) systemd-logind: got resume for 13:69
+[ 33019.109] (II) event5  - SynPS/2 Synaptics TouchPad: is tagged by udev as: Touchpad
+[ 33019.111] (II) event5  - SynPS/2 Synaptics TouchPad: device is a touchpad
+[ 33019.112] (II) systemd-logind: got resume for 13:72
+[ 33019.113] (II) event8  - Integrated Camera: Integrated C: is tagged by udev as: Keyboard
+[ 33019.113] (II) event8  - Integrated Camera: Integrated C: device is a keyboard
+[ 33019.114] (II) systemd-logind: got resume for 13:68
+[ 33019.116] (II) event4  - Video Bus: is tagged by udev as: Keyboard
+[ 33019.116] (II) event4  - Video Bus: device is a keyboard
