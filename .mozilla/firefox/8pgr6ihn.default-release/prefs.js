@@ -24,7 +24,7 @@ user_pref("app.update.lastUpdateTime.telemetry_modules_ping", 1577474705);
 user_pref("app.update.lastUpdateTime.xpi-signature-verification", 1577892212);
 user_pref("browser.anchor_color", "#00bcd4");
 user_pref("browser.bookmarks.restore_default_bookmarks", false);
-user_pref("browser.cache.disk.amount_written", 528043);
+user_pref("browser.cache.disk.amount_written", 538285);
 user_pref("browser.cache.disk.capacity", 1048576);
 user_pref("browser.cache.disk.filesystem_reported", 1);
 user_pref("browser.contentblocking.category", "standard");
