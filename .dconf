@@ -1,0 +1,258 @@
+[desktop/ibus/general]
+preload-engines=['xkb:de::ger']
+version='1.5.21'
+
+[io/elementary/appcenter/settings]
+paid-apps=@as []
+reset-paid-apps=false
+window-x=416
+window-y=178
+
+[org/cinnamon/desktop/interface]
+cursor-theme='Pop'
+gtk-theme='Adapta-Nokto'
+
+[org/cinnamon/desktop/wm/preferences]
+theme='Adapta-Nokto'
+
+[org/cinnamon/settings-daemon/plugins/xsettings]
+buttons-have-icons=false
+menus-have-icons=false
+
+[org/cinnamon/theme]
+name='Adapta-Nokto'
+theme-cache-updated=1577478873
+
+[org/gnome/charmap/window-state]
+size=(1080, 592)
+
+[org/gnome/control-center]
+last-panel='keyboard'
+
+[org/gnome/desktop/app-folders/folders/Pop-Office]
+apps=['libreoffice-calc.desktop', 'libreoffice-draw.desktop', 'libreoffice-impress.desktop', 'libreoffice-math.desktop', 'libreoffice-startcenter.desktop', 'libreoffice-writer.desktop']
+name='Office.directory'
+translate=true
+
+[org/gnome/desktop/app-folders/folders/Pop-System]
+apps=['gnome-language-selector.desktop', 'gnome-session-properties.desktop', 'gnome-system-monitor.desktop', 'im-config.desktop', 'nm-connection-editor.desktop', 'nvidia-settings.desktop', 'org.gnome.baobab.desktop', 'org.gnome.DiskUtility.desktop', 'org.gnome.PowerStats.desktop', 'org.gnome.seahorse.Application.desktop', 'software-properties-gnome.desktop', 'system76-driver.desktop', 'system76-firmware.desktop']
+name='System.directory'
+translate=true
+
+[org/gnome/desktop/app-folders/folders/Pop-Utility]
+apps=['com.github.donadigo.eddy.desktop', 'com.system76.Popsicle.desktop', 'eog.desktop', 'gucharmap.desktop', 'info.desktop', 'org.gnome.Evince.desktop', 'org.gnome.FileRoller.desktop', 'org.gnome.font-viewer.desktop', 'org.gnome.Screenshot.desktop', 'org.gnome.Totem.desktop', 'simple-scan.desktop', 'yelp.desktop']
+name='X-GNOME-Utilities.directory'
+translate=true
+
+[org/gnome/desktop/background]
+color-shading-type='solid'
+picture-options='zoom'
+picture-uri='file:///home/jasper/Pictures/Wallpapers/wallpaper.png'
+primary-color='#000000'
+secondary-color='#000000'
+
+[org/gnome/desktop/calendar]
+show-weekdate=false
+
+[org/gnome/desktop/input-sources]
+current=uint32 0
+sources=[('xkb', 'de')]
+xkb-options=@as []
+
+[org/gnome/desktop/interface]
+clock-format='24h'
+clock-show-seconds=false
+clock-show-weekday=false
+enable-animations=true
+enable-hot-corners=false
+font-name='Roboto 10'
+gtk-im-module='gtk-im-context-simple'
+gtk-theme='Adapta-Nokto'
+icon-theme='Pop'
+monospace-font-name='Fira Mono 11'
+show-battery-percentage=true
+
+[org/gnome/desktop/notifications]
+application-children=['io-elementary-appcenter', 'firefox', 'gnome-control-center', 'org-gnome-gedit', 'gnome-datetime-panel', 'org-gnome-nautilus']
+
+[org/gnome/desktop/notifications/application/firefox]
+application-id='firefox.desktop'
+
+[org/gnome/desktop/notifications/application/gnome-control-center]
+application-id='gnome-control-center.desktop'
+
+[org/gnome/desktop/notifications/application/gnome-datetime-panel]
+application-id='gnome-datetime-panel.desktop'
+
+[org/gnome/desktop/notifications/application/io-elementary-appcenter]
+application-id='io.elementary.appcenter.desktop'
+
+[org/gnome/desktop/notifications/application/org-gnome-gedit]
+application-id='org.gnome.gedit.desktop'
+
+[org/gnome/desktop/notifications/application/org-gnome-nautilus]
+application-id='org.gnome.Nautilus.desktop'
+
+[org/gnome/desktop/peripherals/mouse]
+natural-scroll=false
+
+[org/gnome/desktop/peripherals/touchpad]
+natural-scroll=true
+two-finger-scrolling-enabled=true
+
+[org/gnome/desktop/privacy]
+report-technical-problems=true
+
+[org/gnome/desktop/screensaver]
+picture-uri='file:///home/jasper/Downloads/wallpaper.png'
+
+[org/gnome/desktop/search-providers]
+sort-order=['org.gnome.Contacts.desktop', 'org.gnome.Documents.desktop', 'org.gnome.Nautilus.desktop']
+
+[org/gnome/desktop/sound]
+theme-name='Pop'
+
+[org/gnome/desktop/wm/keybindings]
+close=['<Super>x']
+maximize=['<Super>b']
+switch-to-workspace-1=['<Super>1']
+switch-to-workspace-2=['<Super>2']
+switch-to-workspace-3=['<Super>3']
+switch-to-workspace-4=['<Super>4']
+switch-to-workspace-down=['<Primary><Super>Down']
+switch-to-workspace-up=['<Primary><Super>Up']
+toggle-maximized=['<Super>Up']
+unmaximize=['<Super>Down']
+
+[org/gnome/desktop/wm/preferences]
+titlebar-font='Roboto Medium 10'
+
+[org/gnome/evolution-data-server]
+migrated=true
+network-monitor-gio-name=''
+
+[org/gnome/evolution-data-server/calendar]
+reminders-past=['bad231fa50102d7f196b8257789f7da83577c4ad\n9005b4b76bb1ceb7b58a7c9c44c7f2c5d2112fa7\n1577782800\n1577836800\n1577923200\nBEGIN:VEVENT\r\nDTSTART;VALUE=DATE:20191127\r\nDTEND;VALUE=DATE:20191128\r\nEXDATE;VALUE=DATE:20191225\r\nEXDATE;VALUE=DATE:20200101\r\nRRULE:FREQ=WEEKLY;UNTIL=20200107;BYDAY=WE\r\nDTSTAMP:20191229T103056Z\r\nUID:aa8e5eh9r6o08jn5vulkmcdrd6@google.com\r\nCREATED:20191016T121716Z\r\nX-LIC-ERROR;X-LIC-ERRORTYPE=VALUE-PARSE-ERROR:No value for DESCRIPTION \r\n property. Removing entire property:\r\nLAST-MODIFIED:20191229T103056Z\r\nX-LIC-ERROR;X-LIC-ERRORTYPE=VALUE-PARSE-ERROR:No value for LOCATION \r\n property. Removing entire property:\r\nSEQUENCE:2\r\nSTATUS:CONFIRMED\r\nSUMMARY:Kernarbeitszeit [9-18]\r\nTRANSP:OPAQUE\r\nX-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC\r\nX-EVOLUTION-CALDAV-ETAG:63713298656\r\nBEGIN:VALARM\r\nACTION:AUDIO\r\nTRIGGER:-PT15H\r\nX-WR-ALARMUID:EA6D340A-8CEC-45C4-AC0C-D15CEDD5AA0F\r\nUID:EA6D340A-8CEC-45C4-AC0C-D15CEDD5AA0F\r\nATTACH:Basso\r\nX-APPLE-DEFAULT-ALARM:TRUE\r\nACKNOWLEDGED:20191217T211245Z\r\nX-EVOLUTION-ALARM-UID:9005b4b76bb1ceb7b58a7c9c44c7f2c5d2112fa7\r\nEND:VALARM\r\nEND:VEVENT\r\n']
+
+[org/gnome/file-roller/listing]
+list-mode='as-folder'
+name-column-width=250
+show-path=false
+sort-method='name'
+sort-type='ascending'
+
+[org/gnome/file-roller/ui]
+sidebar-width=200
+window-height=480
+window-width=600
+
+[org/gnome/gedit/plugins]
+active-plugins=['docinfo', 'modelines', 'time', 'filebrowser', 'spell']
+
+[org/gnome/gedit/plugins/filebrowser]
+root='file:///'
+tree-view=true
+virtual-root='file:///media/jasper/0E76A7065E633A15/Backup/PopOS-config'
+
+[org/gnome/gedit/preferences/editor]
+scheme='solarized-dark'
+use-default-font=true
+wrap-last-split-mode='word'
+
+[org/gnome/gedit/preferences/ui]
+show-tabs-mode='auto'
+
+[org/gnome/gedit/state/window]
+bottom-panel-size=140
+side-panel-active-page='GeditWindowDocumentsPanel'
+side-panel-size=200
+size=(900, 700)
+state=87168
+
+[org/gnome/gnome-system-monitor]
+maximized=false
+show-dependencies=false
+show-whose-processes='user'
+window-state=(700, 500, 50, 50)
+
+[org/gnome/gnome-system-monitor/disktreenew]
+col-6-visible=true
+col-6-width=0
+
+[org/gnome/mutter/keybindings]
+toggle-tiled-left=['<Super>Left']
+toggle-tiled-right=['<Super>Right']
+
+[org/gnome/nautilus/list-view]
+default-column-order=['name', 'size', 'type', 'owner', 'group', 'permissions', 'where', 'date_modified', 'date_modified_with_time', 'date_accessed', 'recency', 'starred', 'detailed_type']
+default-visible-columns=['name', 'size', 'date_modified', 'starred']
+use-tree-view=false
+
+[org/gnome/nautilus/preferences]
+default-folder-viewer='list-view'
+search-filter-time-type='last_modified'
+search-view='list-view'
+
+[org/gnome/nautilus/window-state]
+initial-size=(960, 1005)
+maximized=false
+
+[org/gnome/settings-daemon/plugins/color]
+night-light-enabled=true
+night-light-last-coordinates=(50.207700719942409, 12.9)
+night-light-temperature=uint32 3237
+
+[org/gnome/settings-daemon/plugins/media-keys]
+decrease-text-size=['<Primary><Shift>underscore']
+home=['<Super>e']
+increase-text-size=['<Primary><Shift>asterisk']
+www=['<Super>g']
+
+[org/gnome/settings-daemon/plugins/xsettings]
+antialiasing='grayscale'
+hinting='slight'
+
+[org/gnome/shell]
+disable-user-extensions=false
+disabled-extensions=['all-windows@ezix.org']
+enabled-extensions=['alt-tab-raise-first-window@system76.com', 'always-show-workspaces@system76.com', 'batteryiconfix@kylecorry31.github.io', 'desktop-icons@csoriano', 'donotdisturb@kylecorry31.github.io', 'pop-shop-details@system76.com', 'pop-suspend-button@system76.com', 'system76-power@system76.com', 'user-theme@gnome-shell-extensions.gcampax.github.com', 'clipboard-indicator@tudmotu.com', 'Hide_Activities@shay.shayel.org', 'remove-dropdown-arrows@mpdeimos.com', 'dynamicTopBar@gnomeshell.feildel.fr', 'windowlist@o2net.cl', 'window-list-mod@vagonpop.gmail.com']
+
+[org/gnome/shell/extensions/user-theme]
+name='jzy-dark'
+
+[org/gnome/shell/extensions/window-list-mod]
+font-size=18
+grouping-mode='auto'
+show-on-all-monitors=true
+
+[org/gnome/system/location]
+enabled=true
+
+[org/gnome/terminal/legacy]
+mnemonics-enabled=false
+new-terminal-mode='tab'
+theme-variant='system'
+
+[org/gnome/terminal/legacy/profiles:/:b1dcc9dd-5262-4d8d-a863-c897e6d979b9]
+background-color='rgb(38,50,56)'
+font='DejaVu Sans Mono 12'
+palette=['rgb(7,54,66)', 'rgb(220,50,47)', 'rgb(133,153,0)', 'rgb(181,137,0)', 'rgb(38,139,210)', 'rgb(211,54,130)', 'rgb(42,161,152)', 'rgb(238,232,213)', 'rgb(0,43,54)', 'rgb(203,75,22)', 'rgb(88,110,117)', 'rgb(101,123,131)', 'rgb(131,148,150)', 'rgb(108,113,196)', 'rgb(147,161,161)', 'rgb(253,246,227)']
+
+[org/gtk/settings/color-chooser]
+custom-colors=[(0.0, 0.0, 0.0, 0.59999999999999998), (0.14901960784313725, 0.19607843137254899, 0.2196078431372549, 1.0), (0.20000000000000001, 0.20000000000000001, 0.20000000000000001, 1.0)]
+selected-color=(true, 0.0, 0.0, 0.0, 0.59999999999999998)
+
+[org/gtk/settings/file-chooser]
+clock-format='24h'
+date-format='regular'
+location-mode='path-bar'
+show-hidden=true
+show-size-column=true
+show-type-column=true
+sidebar-width=151
+sort-column='name'
+sort-directories-first=true
+sort-order='ascending'
+type-format='category'
+window-position=(39, 161)
+window-size=(1364, 822)
