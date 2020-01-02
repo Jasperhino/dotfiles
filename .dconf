@@ -162,7 +162,7 @@ active-plugins=['docinfo', 'modelines', 'time', 'filebrowser', 'spell']
 [org/gnome/gedit/plugins/filebrowser]
 root='file:///'
 tree-view=true
-virtual-root='file:///media/jasper/0E76A7065E633A15/Backup/PopOS-config'
+virtual-root='file:///home/jasper/.local/share/gnome-settings-daemon'
 
 [org/gnome/gedit/preferences/editor]
 scheme='solarized-dark'
@@ -209,7 +209,7 @@ maximized=false
 
 [org/gnome/settings-daemon/plugins/color]
 night-light-enabled=true
-night-light-last-coordinates=(50.207700719942409, 12.9)
+night-light-last-coordinates=(50.234698560115191, 12.9)
 night-light-temperature=uint32 3237
 
 [org/gnome/settings-daemon/plugins/media-keys]

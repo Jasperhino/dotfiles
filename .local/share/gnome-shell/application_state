@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="org.gnome.tweaks.desktop" score="41.5" last-seen="1577913974"/>
+    <application id="org.gnome.FileRoller.desktop" score="8.25" last-seen="1577899676"/>
+    <application id="repoman.desktop" score="0" last-seen="1577479492"/>
+    <application id="gnome-control-center.desktop" score="164.75" last-seen="1577979582"/>
+    <application id="org.gnome.gedit.desktop" score="556" last-seen="1577979627"/>
+    <application id="gnome-shell-extension-prefs.desktop" score="12" last-seen="1577909721"/>
+    <application id="org.gnome.Nautilus.desktop" score="3934.5" last-seen="1577979633"/>
+    <application id="eog.desktop" score="0" last-seen="1577895867"/>
+    <application id="code_code.desktop" score="24.5" last-seen="1577916809"/>
+    <application id="org.gnome.font-viewer.desktop" score="0.25" last-seen="1577483353"/>
+    <application id="firefox.desktop" score="15113" last-seen="1577979603"/>
+    <application id="org.gnome.Terminal.desktop" score="4618" last-seen="1577979618"/>
+    <application id="io.elementary.appcenter.desktop" score="15.25" last-seen="1577899034"/>
+    <application id="gnome-system-monitor.desktop" score="0" last-seen="1577473781"/>
+    <application id="yelp.desktop" score="0" last-seen="1577912961"/>
+  </context>
+</application-state>
