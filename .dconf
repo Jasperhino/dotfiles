@@ -27,7 +27,7 @@ theme-cache-updated=1577478873
 size=(1080, 592)
 
 [org/gnome/control-center]
-last-panel='keyboard'
+last-panel='user-accounts'
 
 [org/gnome/desktop/app-folders/folders/Pop-Office]
 apps=['libreoffice-calc.desktop', 'libreoffice-draw.desktop', 'libreoffice-impress.desktop', 'libreoffice-math.desktop', 'libreoffice-startcenter.desktop', 'libreoffice-writer.desktop']
@@ -162,7 +162,7 @@ active-plugins=['docinfo', 'modelines', 'time', 'filebrowser', 'spell']
 [org/gnome/gedit/plugins/filebrowser]
 root='file:///'
 tree-view=true
-virtual-root='file:///home/jasper/.config/gtk-4.0'
+virtual-root='file:///media/jasper/0E76A7065E633A15/Backup/PopOS-config'
 
 [org/gnome/gedit/preferences/editor]
 scheme='solarized-dark'
@@ -226,6 +226,7 @@ hinting='slight'
 disable-user-extensions=false
 disabled-extensions=['all-windows@ezix.org']
 enabled-extensions=['alt-tab-raise-first-window@system76.com', 'always-show-workspaces@system76.com', 'batteryiconfix@kylecorry31.github.io', 'desktop-icons@csoriano', 'donotdisturb@kylecorry31.github.io', 'pop-shop-details@system76.com', 'pop-suspend-button@system76.com', 'system76-power@system76.com', 'user-theme@gnome-shell-extensions.gcampax.github.com', 'clipboard-indicator@tudmotu.com', 'Hide_Activities@shay.shayel.org', 'remove-dropdown-arrows@mpdeimos.com', 'dynamicTopBar@gnomeshell.feildel.fr', 'windowlist@o2net.cl', 'window-list-mod@vagonpop.gmail.com']
+had-bluetooth-devices-setup=true
 
 [org/gnome/shell/extensions/clipboard-indicator]
 display-mode=0

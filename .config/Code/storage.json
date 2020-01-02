@@ -1489,7 +1489,8 @@
     "themeBackground": "#1e1e1e",
     "windowsState": {
         "lastActiveWindow": {
-            "backupPath": "/home/jasper/.config/Code/Backups/1577806047063",
+            "folder": "file:///media/jasper/0E76A7065E633A15/Backup/PopOS-config",
+            "backupPath": "/home/jasper/.config/Code/Backups/fe6420e3905a2f6ff1086ba4761a12a8",
             "uiState": {
                 "mode": 1,
                 "x": 960,
