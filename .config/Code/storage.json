@@ -57,7 +57,6 @@
                                     "id": "openRecentFolder",
                                     "uri": {
                                         "$mid": 1,
-                                        "fsPath": "/media/jasper/0E76A7065E633A15/Backup/PopOS-config",
                                         "external": "file:///media/jasper/0E76A7065E633A15/Backup/PopOS-config",
                                         "path": "/media/jasper/0E76A7065E633A15/Backup/PopOS-config",
                                         "scheme": "file"
@@ -67,6 +66,17 @@
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/jasper/.dotfiles/MERGE_MSG",
+                                        "path": "/home/jasper/.dotfiles/MERGE_MSG",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/.dotfiles/MERGE_MSG"
                                 },
                                 {
                                     "id": "openRecentFile",
@@ -258,7 +268,8 @@
                     },
                     {
                         "id": "workbench.action.closeFolder",
-                        "label": "Close &&Folder"
+                        "label": "Close &&Folder",
+                        "enabled": false
                     },
                     {
                         "id": "workbench.action.closeWindow",
@@ -451,8 +462,7 @@
                                 },
                                 {
                                     "id": "workbench.action.toggleSidebarVisibility",
-                                    "label": "Show &&Side Bar",
-                                    "checked": true
+                                    "label": "Show &&Side Bar"
                                 },
                                 {
                                     "id": "workbench.action.toggleStatusbarVisibility",
@@ -641,7 +651,8 @@
                 "items": [
                     {
                         "id": "workbench.action.navigateBack",
-                        "label": "&&Back"
+                        "label": "&&Back",
+                        "enabled": false
                     },
                     {
                         "id": "workbench.action.navigateForward",
@@ -1489,8 +1500,7 @@
     "themeBackground": "#1e1e1e",
     "windowsState": {
         "lastActiveWindow": {
-            "folder": "file:///media/jasper/0E76A7065E633A15/Backup/PopOS-config",
-            "backupPath": "/home/jasper/.config/Code/Backups/fe6420e3905a2f6ff1086ba4761a12a8",
+            "backupPath": "/home/jasper/.config/Code/Backups/1577979677388",
             "uiState": {
                 "mode": 1,
                 "x": 960,

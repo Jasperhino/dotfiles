@@ -18,8 +18,8 @@ user_pref("app.update.lastUpdateTime.addon-background-update-timer", 1577891972)
 user_pref("app.update.lastUpdateTime.blocklist-background-update-timer", 1577892092);
 user_pref("app.update.lastUpdateTime.browser-cleanup-thumbnails", 1577979422);
 user_pref("app.update.lastUpdateTime.recipe-client-addon-run", 1577979542);
-user_pref("app.update.lastUpdateTime.search-engine-update-timer", 1577916895);
-user_pref("app.update.lastUpdateTime.services-settings-poll-changes", 1577891852);
+user_pref("app.update.lastUpdateTime.search-engine-update-timer", 1577979662);
+user_pref("app.update.lastUpdateTime.services-settings-poll-changes", 1577979782);
 user_pref("app.update.lastUpdateTime.telemetry_modules_ping", 1577474705);
 user_pref("app.update.lastUpdateTime.xpi-signature-verification", 1577892212);
 user_pref("browser.anchor_color", "#00bcd4");
